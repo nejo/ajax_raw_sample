@@ -1,1 +1,1 @@
-# This is my README
+A simple example to work with AJAX with XHR element in raw Javascript.
